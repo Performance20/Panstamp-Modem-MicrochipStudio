@@ -1,9 +1,4 @@
-﻿/*Begining of Auto generated code by Atmel studio */
-#include <Arduino.h>
-
-/*End of auto generated code by Atmel studio */
-
-/*
+﻿/*
  * modem.pde
  *
  * Copyright (c) 2014 panStamp <contact@panstamp.com>
@@ -39,17 +34,19 @@
  *
  * Visit our wiki for details about the protocol in case you want to develop
  * your own PC library for this device.
+ *
+ * HS: made some code adaption to better to use the code in a Microchip Studio 7 environment
  */
 
-#include "modem.h"
-
 #include <avr/wdt.h>
+
+#include "modem.h"
 #include "TimerOne.h"
-//Beginning of Auto generated function prototypes by Atmel Studio
+
 void rfPacketReceived(CCPACKET* packet);
 void isrT1event(void );
 void handleSerialCmd(char* command);
-//End of Auto generated function prototypes by Atmel Studio
+byte charToHex(byte ch);
 
 
 byte t1Ticks = 0;     // Timer 1 ticks
@@ -62,9 +59,7 @@ byte t1Ticks = 0;     // Timer 1 ticks
 /**
  * LED pin
  */
-#define LEDPIN  4
-
-byte charToHex(byte ch);
+#define LEDPIN  4  //PD4
 
 /**
  * This function is called whenever a wireless packet is received
@@ -260,8 +255,8 @@ void handleSerialCmd(char* command)
  */
 void setup()
 {
-  //pinMode(LEDPIN, OUTPUT);
-  //digitalWrite(LEDPIN, HIGH);
+ pinMode(LEDPIN, OUTPUT);
+ digitalWrite(LEDPIN, HIGH);
 
  Serial.begin(SERIAL_SPEED);
  Serial.flush();
@@ -289,8 +284,8 @@ void setup()
   
   // Initialize Timer object
   INIT_TIMER();
-  Serial.println("Modem ready!");
- // digitalWrite(LEDPIN, LOW);
+  Serial.println("Modem ready!\n");
+  digitalWrite(LEDPIN, LOW);
 }
 
 /**
@@ -303,7 +298,7 @@ void loop()
   // Read wireless packet?
   if (packetAvailable)
   {
-    //digitalWrite(LEDPIN, HIGH);
+    digitalWrite(LEDPIN, HIGH);
     // Disable wireless reception
     panstamp.rxOff();
 

@@ -29,7 +29,6 @@
 
 #include "Arduino.h"
 #include "panstamp.h"
-#include "HardwareSerial.h"
 #include "version.h"
 
 #define SERIAL_SPEED             38400
