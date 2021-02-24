@@ -1,0 +1,1404 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                              Modem.o (_ZN14HardwareSerial9availableEv)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                              Modem.o (Serial)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o) (init)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                              Modem.o (_ZN6CC11018writeRegEhh)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+                              Modem.o (panstamp)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o) (_ZN9SIMPLESPI4initEv)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                              Modem.o (Timer1)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o) (yield)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o) (attachInterrupt)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o) (pinMode)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o) (_ZN6AVRRTC6wakeUpEv)
+C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o) (_Z14rcOscCalibratev)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__subsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__divsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__mulsf3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o) (__divmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              Modem.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Modem.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o) (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o) (__usmulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o) (__muluhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o) (__umulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+                              C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o) (abort)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                              Modem.o (strcmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                              Modem.o (strncmp)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 Modem.o
+ .data          0x00000000        0x0 Modem.o
+ .bss           0x00000000        0x0 Modem.o
+ .group         0x00000000        0x8 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x44 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .group         0x00000000        0x8 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .group         0x00000000        0x8 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text.atexit   0x00000000        0x6 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .group         0x00000000        0x8 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print17availableForWriteEv
+                0x00000000        0x6 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5flushEv
+                0x00000000        0x2 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x48 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1b6 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0xc C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.millis   0x00000000       0x18 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.micros   0x00000000       0x4a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text.delay    0x00000000       0x78 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .text._ZN6CC11016wakeUpEv
+                0x00000000        0xa C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .text._ZN6CC110110disableLNAEv
+                0x00000000       0x10 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .text._ZN6CC110117setPowerDownStateEv
+                0x00000000       0x26 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .text._ZN6CC11019enableHGMEv
+                0x00000000       0x26 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .text._ZN6CC110110disableHGMEv
+                0x00000000        0xc C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .text._ZN8PANSTAMP6wakeUpEv
+                0x00000000       0x14 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .text._ZN8PANSTAMP5sleepEv
+                0x00000000       0x4a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .text._ZN8PANSTAMP8sleepSecEj6RTCSRC
+                0x00000000       0xe6 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .text._ZN8PANSTAMP6getVccEv
+                0x00000000       0x44 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne10setPwmDutyEci
+                0x00000000       0x4e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne10disablePwmEc
+                0x00000000       0x1e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne3pwmEcil
+                0x00000000       0x66 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne5startEv
+                0x00000000       0x3c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne7restartEv
+                0x00000000        0x4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne4stopEv
+                0x00000000        0xc C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text._ZN8TimerOne4readEv
+                0x00000000       0xce C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .rodata.CSWTCH.18
+                0x00000000        0x4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x76 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x6d C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x20 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x10 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0xa9 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x191 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text.__empty  0x00000000        0x2 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_info    0x00000000       0x3e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_abbrev  0x00000000       0x2a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_aranges
+                0x00000000       0x20 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_ranges  0x00000000       0x10 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_line    0x00000000       0x41 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_str     0x00000000      0x132 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000000       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .debug_frame   0x00000000       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.digitalRead
+                0x00000000       0x52 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .progmem.data.port_to_input_PGM
+                0x00000000        0xa C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .text._ZN6AVRRTC6wakeUpEv
+                0x00000000       0x20 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .text._ZN6AVRRTC14setup_watchdogEh
+                0x00000000       0x2c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .text._ZN6AVRRTC9setup_rtcEh
+                0x00000000       0x26 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .text._ZN6AVRRTC7sleepWdEh
+                0x00000000       0x4a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .text._ZN6AVRRTC8sleepRtcEh
+                0x00000000       0x4a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .text          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+ .data          0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+ .bss           0x00000000        0x0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xdc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x5e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xd2 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x2e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x00000000       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.mul
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_usmulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strncmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strncmp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD Modem.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a
+END GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1b86
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000068       0x14 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x0000007c       0x14 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00000090       0x14 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000a4        0xa C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000a4                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000000ae        0xa C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ae                port_to_mode_PGM
+                0x000000b8                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000b8                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000b8        0x2 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .ctors         0x000000ba        0x2 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+                0x000000bc                __ctors_end = .
+                0x000000bc                __dtors_start = .
+ *(.dtors)
+                0x000000bc                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000bc        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000bc                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000bc        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000c8       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000000c8                __do_copy_data
+ .init4         0x000000de       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000de                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000ee       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_ctors.o)
+                0x000000ee                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000104        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000010c        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x0000010c                __vector_22
+                0x0000010c                __vector_24
+                0x0000010c                __vector_12
+                0x0000010c                __bad_interrupt
+                0x0000010c                __vector_3
+                0x0000010c                __vector_23
+                0x0000010c                __vector_25
+                0x0000010c                __vector_11
+                0x0000010c                __vector_17
+                0x0000010c                __vector_7
+                0x0000010c                __vector_5
+                0x0000010c                __vector_4
+                0x0000010c                __vector_21
+                0x0000010c                __vector_15
+                0x0000010c                __vector_8
+                0x0000010c                __vector_14
+                0x0000010c                __vector_10
+                0x0000010c                __vector_20
+                0x00000110                . = ALIGN (0x2)
+ *(.text.*)
+ .text._Z16rfPacketReceivedP8CCPACKET
+                0x00000110       0x10 Modem.o
+                0x00000110                _Z16rfPacketReceivedP8CCPACKET
+ .text._Z10isrT1eventv
+                0x00000120       0x5e Modem.o
+                0x00000120                _Z10isrT1eventv
+ .text._Z9charToHexh
+                0x0000017e       0x22 Modem.o
+                0x0000017e                _Z9charToHexh
+ .text._Z15handleSerialCmdPc
+                0x000001a0      0x302 Modem.o
+                0x000001a0                _Z15handleSerialCmdPc
+ .text.setup    0x000004a2       0x92 Modem.o
+                0x000004a2                setup
+ .text.loop     0x00000534      0x1ae Modem.o
+                0x00000534                loop
+ .text._ZN14HardwareSerial9availableEv
+                0x000006e2       0x18 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000006e2                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x000006fa       0x1c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000006fa                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x00000716       0x28 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000716                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x0000073e       0x1e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000073e                _ZN14HardwareSerial17availableForWriteEv
+ .text._Z14serialEventRunv
+                0x0000075c       0x1c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000075c                _Z14serialEventRunv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x00000778       0x44 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000778                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5writeEh
+                0x000007bc       0x9a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000007bc                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5flushEv
+                0x00000856       0x44 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000856                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5beginEmh
+                0x0000089a       0xca C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000089a                _ZN14HardwareSerial5beginEmh
+ .text.__vector_18
+                0x00000964       0x64 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000964                __vector_18
+ .text.__vector_19
+                0x000009c8       0x4c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000009c8                __vector_19
+ .text._Z17Serial0_availablev
+                0x00000a14       0x14 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00000a14                _Z17Serial0_availablev
+ .text.startup._GLOBAL__sub_I___vector_18
+                0x00000a28       0x5a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text.initVariant
+                0x00000a82        0x2 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000a82                initVariant
+ .text.startup.main
+                0x00000a84       0x1e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                0x00000a84                main
+ .text._ZN5Print5writeEPKhj
+                0x00000aa2       0x54 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000aa2                _ZN5Print5writeEPKhj
+ .text._ZN5Print5writeEPKc
+                0x00000af6       0x2a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000af6                _ZN5Print5writeEPKc
+ .text._ZN5Print5printEPKc
+                0x00000b20        0x4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b20                _ZN5Print5printEPKc
+ .text._ZN5Print5printEc
+                0x00000b24        0xe C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b24                _ZN5Print5printEc
+ .text._ZN5Print7printlnEv
+                0x00000b32        0x8 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b32                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPKc
+                0x00000b3a       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b3a                _ZN5Print7printlnEPKc
+ .text._ZN5Print11printNumberEmh
+                0x00000b5e       0x92 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000b5e                _ZN5Print11printNumberEmh
+ .text._ZN5Print5printEmi
+                0x00000bf0       0x1a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000bf0                _ZN5Print5printEmi
+ .text._ZN5Print5printEhi
+                0x00000c0a        0xe C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c0a                _ZN5Print5printEhi
+ .text._ZN5Print7printlnEhi
+                0x00000c18       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c18                _ZN5Print7printlnEhi
+ .text._ZN5Print5printEji
+                0x00000c3c        0xc C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c3c                _ZN5Print5printEji
+ .text._ZN5Print7printlnEji
+                0x00000c48       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c48                _ZN5Print7printlnEji
+ .text._ZN5Print5printEli
+                0x00000c6c       0x90 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000c6c                _ZN5Print5printEli
+ .text._ZN5Print5printEii
+                0x00000cfc        0xe C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000cfc                _ZN5Print5printEii
+ .text._ZN5Print7printlnEii
+                0x00000d0a       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                0x00000d0a                _ZN5Print7printlnEii
+ .text.__vector_16
+                0x00000d2e       0x94 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000d2e                __vector_16
+ .text.delayMicroseconds
+                0x00000dc2       0x16 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000dc2                delayMicroseconds
+ .text.init     0x00000dd8       0x76 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x00000dd8                init
+ .text._ZN6CC1101C2Ev
+                0x00000e4e       0x16 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00000e4e                _ZN6CC1101C1Ev
+                0x00000e4e                _ZN6CC1101C2Ev
+ .text._ZN6CC11018writeRegEhh
+                0x00000e64       0x28 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00000e64                _ZN6CC11018writeRegEhh
+ .text._ZN6CC110113writeBurstRegEhPhh
+                0x00000e8c       0x52 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00000e8c                _ZN6CC110113writeBurstRegEhPhh
+ .text._ZN6CC11019cmdStrobeEh
+                0x00000ede        0xe C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00000ede                _ZN6CC11019cmdStrobeEh
+ .text._ZN6CC11017readRegEhh
+                0x00000eec       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00000eec                _ZN6CC11017readRegEhh
+ .text._ZN6CC110112readBurstRegEPhhh
+                0x00000f10       0x56 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00000f10                _ZN6CC110112readBurstRegEPhhh
+ .text._ZN6CC110111setSyncWordEhh
+                0x00000f66       0x2e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00000f66                _ZN6CC110111setSyncWordEhh
+ .text._ZN6CC110111setSyncWordEPh
+                0x00000f94        0xa C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00000f94                _ZN6CC110111setSyncWordEPh
+ .text._ZN6CC110113setDevAddressEh
+                0x00000f9e       0x1c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00000f9e                _ZN6CC110113setDevAddressEh
+ .text._ZN6CC110110setChannelEh
+                0x00000fba       0x1c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00000fba                _ZN6CC110110setChannelEh
+ .text._ZN6CC110114setCarrierFreqEh
+                0x00000fd6       0x7e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00000fd6                _ZN6CC110114setCarrierFreqEh
+ .text._ZN6CC11018enablePAEv
+                0x00001054       0x10 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00001054                _ZN6CC11018enablePAEv
+ .text._ZN6CC110110setTxStateEv
+                0x00001064       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00001064                _ZN6CC110110setTxStateEv
+ .text._ZN6CC11019enableLNAEv
+                0x00001088       0x10 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00001088                _ZN6CC11019enableLNAEv
+ .text._ZN6CC110110setRxStateEv
+                0x00001098       0x26 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00001098                _ZN6CC110110setRxStateEv
+ .text._ZN6CC11018sendDataE8CCPACKET
+                0x000010be       0xe0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x000010be                _ZN6CC11018sendDataE8CCPACKET
+ .text._ZN6CC11019setCCregsEv
+                0x0000119e      0x230 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x0000119e                _ZN6CC11019setCCregsEv
+ .text._ZN6CC11015resetEv
+                0x000013ce       0x42 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x000013ce                _ZN6CC11015resetEv
+ .text._ZN6CC11014initEhh
+                0x00001410       0x2a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x00001410                _ZN6CC11014initEhh
+ .text._ZN6CC110111receiveDataEP8CCPACKET
+                0x0000143a       0x98 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                0x0000143a                _ZN6CC110111receiveDataEP8CCPACKET
+ .text._Z8radioISRv
+                0x000014d2       0x46 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+                0x000014d2                _Z8radioISRv
+ .text._ZN8PANSTAMPC2Ev
+                0x00001518       0x16 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+                0x00001518                _ZN8PANSTAMPC1Ev
+                0x00001518                _ZN8PANSTAMPC2Ev
+ .text._ZN8PANSTAMP4rxOnEv
+                0x0000152e        0xe C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+                0x0000152e                _ZN8PANSTAMP4rxOnEv
+ .text._ZN8PANSTAMP5rxOffEv
+                0x0000153c        0x6 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+                0x0000153c                _ZN8PANSTAMP5rxOffEv
+ .text._ZN8PANSTAMP4initEhh
+                0x00001542       0x52 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+                0x00001542                _ZN8PANSTAMP4initEhh
+ .text._ZN8PANSTAMP5resetEv
+                0x00001594       0x2c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+                0x00001594                _ZN8PANSTAMP5resetEv
+ .text.startup._GLOBAL__sub_I__Z8radioISRv
+                0x000015c0        0x8 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .text._ZN9SIMPLESPI4initEv
+                0x000015c8       0x3e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+                0x000015c8                _ZN9SIMPLESPI4initEv
+ .text._ZN9SIMPLESPI4sendEh
+                0x00001606        0xc C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+                0x00001606                _ZN9SIMPLESPI4sendEh
+ .text.__vector_13
+                0x00001612       0x4e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x00001612                __vector_13
+ .text._ZN8TimerOne9setPeriodEl
+                0x00001660       0xd0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x00001660                _ZN8TimerOne9setPeriodEl
+ .text._ZN8TimerOne10initializeEl
+                0x00001730        0xe C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x00001730                _ZN8TimerOne10initializeEl
+ .text._ZN8TimerOne15detachInterruptEv
+                0x0000173e        0xc C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x0000173e                _ZN8TimerOne15detachInterruptEv
+ .text._ZN8TimerOne6resumeEv
+                0x0000174a       0x12 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x0000174a                _ZN8TimerOne6resumeEv
+ .text._ZN8TimerOne15attachInterruptEPFvvEl
+                0x0000175c       0x36 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x0000175c                _ZN8TimerOne15attachInterruptEPFvvEl
+ .text.nothing  0x00001792        0x2 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .text.attachInterrupt
+                0x00001794       0x40 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00001794                attachInterrupt
+ .text.detachInterrupt
+                0x000017d4       0x24 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x000017d4                detachInterrupt
+ .text.__vector_1
+                0x000017f8       0x4e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x000017f8                __vector_1
+ .text.__vector_2
+                0x00001846       0x4e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                0x00001846                __vector_2
+ .text.turnOffPWM
+                0x00001894       0x52 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x000018e6       0x78 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000018e6                pinMode
+ .text.digitalWrite
+                0x0000195e       0x5e C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000195e                digitalWrite
+ .text.__vector_6
+                0x000019bc       0x14 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+                0x000019bc                __vector_6
+ .text.__vector_9
+                0x000019d0       0x4a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+                0x000019d0                __vector_9
+ .text._Z14rcOscCalibratev
+                0x00001a1a       0xea C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+                0x00001a1a                _Z14rcOscCalibratev
+ .text.libgcc.div
+                0x00001b04       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                0x00001b04                __udivmodsi4
+ .text.libgcc   0x00001b48        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x00001b48                __tablejump2__
+ .text.avr-libc
+                0x00001b54       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                0x00001b54                strcmp
+ .text.avr-libc
+                0x00001b66       0x1c c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                0x00001b66                strncmp
+                0x00001b82                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001b82        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00001b82                _exit
+                0x00001b82                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001b82        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001b86                _etext = .
+
+.data           0x00800100       0x8c load address 0x00001b86
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.intFunc  0x00800100        0x4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800104       0x66 Modem.o
+                                 0x67 (size before relaxing)
+ .rodata._ZTV14HardwareSerial
+                0x0080016a       0x12 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0080016a                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x0080017c        0xf C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ *(.gnu.linkonce.r*)
+                0x0080018c                . = ALIGN (0x2)
+ *fill*         0x0080018b        0x1 
+                0x0080018c                _edata = .
+                0x0080018c                PROVIDE (__data_end, .)
+
+.bss            0x0080018c      0x186
+                0x0080018c                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.t1Ticks   0x0080018c        0x1 Modem.o
+                0x0080018c                t1Ticks
+ .bss.packetAvailable
+                0x0080018d        0x1 Modem.o
+                0x0080018d                packetAvailable
+ .bss.serMode   0x0080018e        0x1 Modem.o
+                0x0080018e                serMode
+ .bss.len       0x0080018f        0x2 Modem.o
+                0x0080018f                len
+ .bss.ch        0x00800191        0x1 Modem.o
+                0x00800191                ch
+ .bss.strSerial
+                0x00800192       0x80 Modem.o
+                0x00800192                strSerial
+ .bss.rxPacket  0x00800212        0x2 Modem.o
+                0x00800212                rxPacket
+ .bss.Serial    0x00800214       0x9d C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x00800214                Serial
+ .bss.timer0_fract
+                0x008002b1        0x1 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x008002b2        0x4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008002b2                timer0_millis
+ .bss.timer0_overflow_count
+                0x008002b6        0x4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                0x008002b6                timer0_overflow_count
+ .bss._ZZ8radioISRvE8ccPacket
+                0x008002ba       0x41 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .bss.panstamp  0x008002fb        0xd C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+                0x008002fb                panstamp
+ .bss.Timer1    0x00800308        0x6 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                0x00800308                Timer1
+ .bss._ZN6AVRRTC5countE
+                0x0080030e        0x4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+                0x0080030e                _ZN6AVRRTC5countE
+ *(COMMON)
+                0x00800312                PROVIDE (__bss_end, .)
+                0x00001b86                __data_load_start = LOADADDR (.data)
+                0x00001c12                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800312        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800312                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Modem.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .comment       0x00000030       0x31 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x550
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x48 Modem.o
+ .debug_aranges
+                0x00000048       0x68 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_aranges
+                0x000000b0       0x48 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_aranges
+                0x000000f8       0x30 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_aranges
+                0x00000128      0x100 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x00000228       0x48 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x00000270       0xe0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .debug_aranges
+                0x00000350       0x70 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .debug_aranges
+                0x000003c0       0x28 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+ .debug_aranges
+                0x000003e8       0x80 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_aranges
+                0x00000468       0x40 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_aranges
+                0x000004a8       0x38 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_aranges
+                0x000004e0       0x50 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .debug_aranges
+                0x00000530       0x20 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0xc6b3
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4     0x15ec Modem.o
+ .debug_info    0x00001be0     0x1f64 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x00003b44     0x1b16 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x0000565a      0x237 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_info    0x00005891     0x28ff C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x00008190      0x2cb C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x0000845b     0x1b90 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .debug_info    0x00009feb      0xf59 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .debug_info    0x0000af44      0x2e4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+ .debug_info    0x0000b228      0x650 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_info    0x0000b878      0x21c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_info    0x0000ba94      0x5fe C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_info    0x0000c092      0x43f C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .debug_info    0x0000c4d1      0x1e2 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+
+.debug_abbrev   0x00000000     0x28e8
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x46b Modem.o
+ .debug_abbrev  0x00000a0d      0x4b7 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00000ec4      0x3ce C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00001292      0x12d C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_abbrev  0x000013bf      0x47a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x00001839      0x146 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x0000197f      0x37b C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .debug_abbrev  0x00001cfa      0x42d C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .debug_abbrev  0x00002127      0x13d C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+ .debug_abbrev  0x00002264      0x1ac C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_abbrev  0x00002410       0xfc C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_abbrev  0x0000250c      0x15b C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_abbrev  0x00002667      0x1c7 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .debug_abbrev  0x0000282e       0xba C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+
+.debug_line     0x00000000     0x3496
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x134 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000134      0x600 Modem.o
+ .debug_line    0x00000734      0x4d9 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00000c0d      0x2a1 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x00000eae      0x17a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_line    0x00001028      0x69a C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x000016c2      0x2ae C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x00001970      0x825 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .debug_line    0x00002195      0x471 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .debug_line    0x00002606      0x1a9 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+ .debug_line    0x000027af      0x397 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_line    0x00002b46      0x1b7 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_line    0x00002cfd      0x267 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_line    0x00002f64      0x317 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .debug_line    0x0000327b      0x21b C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+
+.debug_frame    0x00000000      0xfb8
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xc8 Modem.o
+ .debug_frame   0x000000c8      0x110 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x000001d8       0xe0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x000002b8       0x54 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_frame   0x0000030c      0x3ac C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x000006b8       0xc4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x0000077c      0x2d4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .debug_frame   0x00000a50      0x144 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .debug_frame   0x00000b94       0x34 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+ .debug_frame   0x00000bc8      0x188 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_frame   0x00000d50       0xf4 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_frame   0x00000e44       0x7c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_frame   0x00000ec0       0xc8 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .debug_frame   0x00000f88       0x30 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+
+.debug_str      0x00000000     0x2c30
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0xdbe Modem.o
+                                0xe36 (size before relaxing)
+ .debug_str     0x00000fc6     0x12a9 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x1608 (size before relaxing)
+ .debug_str     0x0000226f       0xca C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+                               0x13fb (size before relaxing)
+ .debug_str     0x00002339       0x37 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+                                0x2a7 (size before relaxing)
+ .debug_str     0x00002370      0x354 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+                               0x1235 (size before relaxing)
+ .debug_str     0x000026c4      0x154 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+                                0x23d (size before relaxing)
+ .debug_str     0x00002818       0xc1 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+                                0x7db (size before relaxing)
+ .debug_str     0x000028d9       0xe2 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+                                0xb28 (size before relaxing)
+ .debug_str     0x000029bb       0x28 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+                                0x2c8 (size before relaxing)
+ .debug_str     0x000029e3       0x62 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+                                0x3f5 (size before relaxing)
+ .debug_str     0x00002a45       0x62 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+                                0x22a (size before relaxing)
+ .debug_str     0x00002aa7       0xc2 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x2a2 (size before relaxing)
+ .debug_str     0x00002b69       0x60 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+                                0x36a (size before relaxing)
+ .debug_str     0x00002bc9       0x67 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+                                0x2d0 (size before relaxing)
+
+.debug_loc      0x00000000     0x4fb7
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x38f Modem.o
+ .debug_loc     0x0000038f      0x4dc C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x0000086b      0x1b0 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x00000a1b     0x1c87 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x000026a2      0x28d C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x0000292f      0xe80 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .debug_loc     0x000037af      0x601 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .debug_loc     0x00003db0       0x4c C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+ .debug_loc     0x00003dfc      0x6a5 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_loc     0x000044a1      0x235 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_loc     0x000046d6      0x5fc C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_loc     0x00004cd2      0x24f C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .debug_loc     0x00004f21       0x96 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x4b8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x38 Modem.o
+ .debug_ranges  0x00000038       0x58 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x00000090       0x38 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x000000c8       0x20 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(main.o)
+ .debug_ranges  0x000000e8      0x120 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000208       0x38 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x00000240       0xe8 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(cc1101.o)
+ .debug_ranges  0x00000328       0x60 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(panstamp.o)
+ .debug_ranges  0x00000388       0x18 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(simplespi.o)
+ .debug_ranges  0x000003a0       0x70 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(TimerOne.o)
+ .debug_ranges  0x00000410       0x30 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(WInterrupts.o)
+ .debug_ranges  0x00000440       0x28 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(wiring_digital.o)
+ .debug_ranges  0x00000468       0x40 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(avrrtc.o)
+ .debug_ranges  0x000004a8       0x10 C:\Users\Helge\source\repos\Performance20\Modem\Modem\ArduinoCore\Debug\libArduinoCore.a(calibration.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(modem.elf elf32-avr)
+LOAD linker stubs
