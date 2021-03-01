@@ -59,7 +59,7 @@ byte t1Ticks = 0;     // Timer 1 ticks
 /**
  * LED pin
  */
-#define LEDPIN  4  //PD4
+//#define LEDPIN  4  //PD4
 
 /**
  * This function is called whenever a wireless packet is received
@@ -255,8 +255,8 @@ void handleSerialCmd(char* command)
  */
 void setup()
 {
- pinMode(LEDPIN, OUTPUT);
- digitalWrite(LEDPIN, HIGH);
+ //pinMode(LEDPIN, OUTPUT);
+ //digitalWrite(LEDPIN, HIGH);
 
  Serial.begin(SERIAL_SPEED);
  Serial.flush();
@@ -285,7 +285,7 @@ void setup()
   // Initialize Timer object
   INIT_TIMER();
   Serial.println("Modem ready!\n");
-  digitalWrite(LEDPIN, LOW);
+  //digitalWrite(LEDPIN, LOW);
 }
 
 /**
@@ -298,7 +298,7 @@ void loop()
   // Read wireless packet?
   if (packetAvailable)
   {
-    digitalWrite(LEDPIN, HIGH);
+    //digitalWrite(LEDPIN, HIGH);
     // Disable wireless reception
     panstamp.rxOff();
 
